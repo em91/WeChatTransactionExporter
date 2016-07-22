@@ -1,0 +1,9 @@
+Package: com.fish.WeChatTransactionExoprter
+Name: WeChatTransactionExoprter - 微信交易记录导出
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Help wechat users export pay order transactions. \n 帮助微信用户导出交易记录。
+Maintainer: 
+Author:
+Section: Tweaks
